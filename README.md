@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming languages like Java, VB.Net, VBA & VBScript
 - 🌱 I’m currently learning Android Mobile app development using
 - 💞️ I’m looking to collaborate on the above topics
-- 🌱 I've developed tools for test management like QIC which helps in automating most of ALM Test Management processes
+- 🌱 I've developed tools for test management like QiC (https://github.com/MohammaduAli/Quality-In-Clicks) which helps in automating most of ALM Test Management processes
 - 📫 How to reach me at jmohammaduali@gmail.com
 
 <!---
